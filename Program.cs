@@ -1,18 +1,11 @@
 ﻿using System;
 
-namespace EUC5Ops;
+namespace EmpUC8;
 
 class Program
 {
     public static void Main(string[] args)
-
     {
-
-
-
-        U5C l = new U5C();
-
-        l.eUC5(1, 2, 20, 20,0);
-
+        U8C.UC8("mm", 20, 20, 100);
     }
 }
