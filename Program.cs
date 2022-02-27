@@ -1,17 +1,14 @@
 ﻿using System;
 
-namespace EmpUC1ops;
+namespace EmpUC2Oops;
 
 class Program
 {
     public static void Main(string[] args)
+
     {
-        EmpOUC1 b = new EmpOUC1();
+        EmpUC2Ops n = new EmpUC2Ops();
 
-        b.u1c();
-
-
-
-
+        n.u2c(20,8);
     }
 }
