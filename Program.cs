@@ -1,14 +1,15 @@
 ﻿using System;
 
-namespace EmpUC2Oops;
+namespace EmpUC3Ops;
 
 class Program
 {
-    public static void Main(string[] args)
-
+    public static void Main()
     {
-        EmpUC2Ops n = new EmpUC2Ops();
+        EmpUC3Ops m = new EmpUC3Ops();
 
-        n.u2c(20,8);
+        m.uc3(1, 2,20,8);
+
+        
     }
 }
