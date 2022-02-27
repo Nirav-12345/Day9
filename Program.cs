@@ -1,15 +1,15 @@
 ﻿using System;
 
-namespace EmpUC3Ops;
+namespace EmpUC4Ops;
 
 class Program
 {
-    public static void Main()
+
+    public static void Main(string[] args)
     {
-        EmpUC3Ops m = new EmpUC3Ops();
+        u4c v = new u4c();
 
-        m.uc3(1, 2,20,8);
 
-        
+        v.EU4c(1,2,20,0);
     }
 }
