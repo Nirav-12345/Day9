@@ -1,11 +1,2 @@
-﻿using System;
-
-namespace EmpUC8;
-
-class Program
-{
-    public static void Main(string[] args)
-    {
-        U8C.UC8("mm", 20, 20, 100);
-    }
-}
+﻿// See https://aka.ms/new-console-template for more information
+Console.WriteLine("Hello, World!");
